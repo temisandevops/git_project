@@ -4,4 +4,5 @@ echo " Jesus"
 echo "i am a boy"
 Mango=30
 Apple=20
+#Prices of thing are high
 
